@@ -1,0 +1,15 @@
+{
+  "model_id": "daekeun-ml/koelectra-small-v3-nsmc",
+  "eval_samples": 1000,
+  "pytorch_param_mb": 53.87,
+  "fp32": {
+    "size_mb": 54.13,
+    "accuracy": 0.894,
+    "latency_ms": 3.74
+  },
+  "int8": {
+    "size_mb": 14.03,
+    "accuracy": 0.889,
+    "latency_ms": 2.79
+  }
+}

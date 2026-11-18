@@ -1,0 +1,152 @@
+{
+  "source": "영화 정보: 나무위키 / 리뷰: 퍼시픽 림, 트랜스포머: 패자의 역습은 NSMC 원본 데이터 (https://github.com/e9t/nsmc, CC0, 작성자는 가려진 네이버 아이디), 퍼시픽 림: 업라이징은 키노라이츠 (https://m.kinolights.com) 사용자 리뷰 (작성자 이름은 임의로 가림)",
+  "movies": [
+    {
+      "title": "퍼시픽 림",
+      "release_date": "2013-07-12",
+      "director": "기예르모 델 토로",
+      "genre": "SF, 액션, 거대로봇, 괴수",
+      "poster_url": "https://i.namu.wiki/i/CXADBwCtQjNdjU18HkObWb8RWH40kBzQs8aNyAxcJ41YAUX2Cl1wB8kiDIuVlbOpYFHJNxqlmUcXt208NrgscfXlcIJi7OyFRCxaY86BBbog7-Kych2Y8ym1__l2I-rPaRQm7x0lJGrTrkPvJiMJqg.webp",
+      "reviews": [
+        {
+          "author": "born****",
+          "content": "거대한 깡통로봇의 힘과 질감이 느껴지는 영화....후편이 안나와서 슬픈 영화 ㅠㅠ"
+        },
+        {
+          "author": "like****",
+          "content": "매우 재미있다이영화는 예거가 카이주의 목을벨떄가 인상적이다"
+        },
+        {
+          "author": "kalc****",
+          "content": "오타쿠의 상상을 그대로 표현한 영화. 내러티브 따위는 따지지 말자. 괴수와 거대로봇의 전투씬만으로도 이 영화는 충분히 의미가 있다"
+        },
+        {
+          "author": "cjh4****",
+          "content": "남자들의 소년감성을 깨워주는 영화...로봇과 괴수의 싸움을 실감나게 그려낸 화려한 비쥬얼 이펙트!"
+        },
+        {
+          "author": "jjy3****",
+          "content": "기계와 인간과 괴수. 이들의 전투는 상당히 멋있었다."
+        },
+        {
+          "author": "gywn****",
+          "content": "초대형 거대로봇이 스케일을 말해준다."
+        },
+        {
+          "author": "cris****",
+          "content": "정통 로봇영화의 진수!  몰입감 최고! 작품성에 비해 평점이 너무 낮은거같다. 극장에서 못본게 아쉬울 뿐.."
+        },
+        {
+          "author": "cont****",
+          "content": "부족한 연출과 디테일은 압도적인 영상과 컨셉으로 용서되었다."
+        },
+        {
+          "author": "rhtj****",
+          "content": "와진짜 개지루하다 진심너무 길기도 하고 무슨 초딩들만보는영화너무 지루하고 재미도 최악이다 진짜"
+        },
+        {
+          "author": "lohy****",
+          "content": "초대형 노잼 블록버스터"
+        }
+      ]
+    },
+    {
+      "title": "퍼시픽 림: 업라이징",
+      "release_date": "2018-03-21",
+      "director": "스티븐 S. 드나이트",
+      "genre": "SF, 액션, 거대로봇, 괴수",
+      "poster_url": "https://i.namu.wiki/i/hxcxg4Z3KGlijfLQFDz5j9YWKIxJznl9BaTbwR8fQHwTF6VeSUZPqsrxH9mgffsH3u8-FgnnsrqTCnBGbhqlh0xapn0Z1hsSJwFq1nCQ7pdeWpiJsj4K6coNLmXUPIUmyxFYMgUm-vNka8bey03ihQ.webp",
+      "reviews": [
+        {
+          "author": "fdvo****",
+          "content": "전작의 지구가 멸망할 것만 같은 비장함이 사라지고 쇼만 남았다. 기예르모 돌아와줘"
+        },
+        {
+          "author": "khgp****",
+          "content": "고생해서 만든 1편의 설정을 그대로 개무시하는 최악의 2편"
+        },
+        {
+          "author": "upfp****",
+          "content": "의외로 나쁘지 않음. 전작이 워낙 뛰어나서 그렇지 중국냄새 나는거 빼곤 재밌게 봄. 오타쿠의 부재가 크긴 하지만 나름 재밌음. 트랜스 포머 느낌이 좀 많이 나긴함."
+        },
+        {
+          "author": "joig****",
+          "content": "거대한 로봇의 껍데기만 남은 채 감정과 서사가 실종된 공허한 속편"
+        },
+        {
+          "author": "iwdk****",
+          "content": "1편의 성공 이유를 전혀 모르고 만든 속편"
+        },
+        {
+          "author": "qvyz****",
+          "content": "전편의 흥행순서 만큼 비중 넣어주고... 전편의 단점은 아주 조금 보완하고 장점은 크게 잃었다"
+        },
+        {
+          "author": "fzhf****",
+          "content": "개봉당일에 언론시사회를 하는 이유가 다 있다. 중국 자본주의와 할리우드가 결합하면 안되는 또 하나의 예시. -2018년 3월 21일 '퍼시픽 림: 업라이징' 언론/배급 시사회 관람-"
+        },
+        {
+          "author": "hgxl****",
+          "content": "좋은 플롯과 전작을 가지고 있는 ip여도 투자와 배경을 잘못 잡으면 망한다의 정확한 예시"
+        },
+        {
+          "author": "sqgz****",
+          "content": "재미도 감동도 뭣도 없다"
+        },
+        {
+          "author": "vypg****",
+          "content": "전작의 묵직함은 어디로 가고 빈껍데기만"
+        }
+      ]
+    },
+    {
+      "title": "트랜스포머: 패자의 역습",
+      "release_date": "2009-06-24",
+      "director": "마이클 베이",
+      "genre": "SF, 액션, 어드벤처",
+      "poster_url": "https://i.namu.wiki/i/K7rJwNNnTAhXlFzHsaV8XHde84VZEeUw4bI4FtIJEvPLoKKcqvrdNoj5ZDS6wpRLomPq-fYLDbbWWHJGpP8hOmZQqQTSbpEsFB6QZI1udv5oRTsaZIeklL-k-Qcj6b2fKcP4PX7OdIRgKBJOK87Zlw.webp",
+      "reviews": [
+        {
+          "author": "gala****",
+          "content": "옵티머스 혼자 1대3으로 싸울때 소름"
+        },
+        {
+          "author": "cby2****",
+          "content": "마지막에 옵티머스프라임 엄청 멋있었어요!"
+        },
+        {
+          "author": "bora****",
+          "content": "5년 전에 본 거라 전체적인 스토리는 기억이 잘 안 나지만.. 마지막 옵티머스 프라임의 합체 장면은 여전히 아주 인상깊었던 기억으로 자리매김하고 있다."
+        },
+        {
+          "author": "loo1****",
+          "content": "진짜 범블비 너무 귀엽고 의리있으서 미쳐버리겠다 ㅠㅠ 짱짱"
+        },
+        {
+          "author": "laks****",
+          "content": "너무 혹평이 많아서 걱정했었는데 정작 봤더니 1탄보다 더 재밌네요 대체 이런 오락영화에 뭐그리 작품성을 따지는지 이해가 안갑니다 정말 재밌는 영화에요"
+        },
+        {
+          "author": "dkdl****",
+          "content": "웅장하고 희열을 느끼고 흥분하고 잠시나마 보는내내 대리만족한것으로 고마웠다"
+        },
+        {
+          "author": "sipj****",
+          "content": "슈퍼카, 미녀 여친, 변신 로봇. 볼거리는 그대로인데 150분 내내 공허함만 남는다."
+        },
+        {
+          "author": "inos****",
+          "content": "인상적인 전작이랑 달리 아무리 재밌어도 반복되면 지겹다. 지루하고 식상했다"
+        },
+        {
+          "author": "conc****",
+          "content": "거대 로봇들의 대결이 아니라 로봇 장난감들의 대결 같다. 트랜스포머의 대는 여기서 끊겼다 해도 과언이 아니다."
+        },
+        {
+          "author": "bbsd****",
+          "content": "0점없는것이 아쉽네스토리는 하나도없이 지루하기만하고무조건  깨부수는것 정말 귀아프고 눈아프고보는 내내 지겨워 죽는줄"
+        }
+      ]
+    }
+  ]
+}

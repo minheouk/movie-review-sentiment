@@ -1,0 +1,8 @@
+# 모델 변환용 패키지 (scripts/export_onnx.py)
+# - 서버에는 설치하지 않음
+# - torch 는 CPU 버전 권장: pip install torch --index-url https://download.pytorch.org/whl/cpu
+-r requirements.txt
+torch==2.15.0
+transformers==5.23.0
+onnx==1.23.2
+onnxscript
