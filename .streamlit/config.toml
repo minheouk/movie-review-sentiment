@@ -1,0 +1,13 @@
+# Streamlit 설정
+
+[client]
+# 오른쪽 위 Deploy 버튼과 메뉴(⋮)를 숨김
+toolbarMode = "minimal"
+
+[theme]
+# 밝은 테마로 고정함
+base = "light"
+
+[browser]
+# 사용 통계 전송 끔
+gatherUsageStats = false
